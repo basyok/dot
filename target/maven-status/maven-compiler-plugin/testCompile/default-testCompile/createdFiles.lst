@@ -1,0 +1,6 @@
+my/test/web/pages/MainPage.class
+my/test/web/elements/Pagination.class
+my/test/web/pages/TrendsPage.class
+my/test/web/elements/TrendsSearch.class
+my/test/web/elements/Filters.class
+my/test/web/TestCases.class

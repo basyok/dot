@@ -1,0 +1,53 @@
+{
+  "uid" : "147a18c51703d717",
+  "name" : "trendsFiltered",
+  "title" : "Trends filtered",
+  "time" : {
+    "start" : 1514375629790,
+    "stop" : 1514375677140,
+    "duration" : 47350
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "4a72d73943f2bd31",
+    "name" : "my.test.web.TestCases",
+    "title" : "Three cases"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "/filtered.png",
+    "source" : "436d8d99-078f-4268-ae3b-057e7ed1186b-attachment.png",
+    "type" : "image/png",
+    "size" : 124503,
+    "uid" : "5f53b7840d26de01"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Z565"
+  }, {
+    "name" : "thread",
+    "value" : "27620@Z565.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "my.test.web.TestCases"
+  }, {
+    "name" : "suite-title",
+    "value" : "Three cases"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

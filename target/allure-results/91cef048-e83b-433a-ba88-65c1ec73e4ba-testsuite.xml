@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1514375548764" stop="1514375677157" version="1.4.14" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>my.test.web.TestCases</name>
+    <title>Three cases</title>
+    <test-cases>
+        <test-case start="1514375548906" stop="1514375573532" status="passed">
+            <name>trendsMain</name>
+            <steps/>
+            <attachments>
+                <attachment title="/main.png" source="b885f08c-98cc-4666-aaca-26ca8844a471-attachment.png" type="image/png" size="126204"/>
+            </attachments>
+            <labels>
+                <label name="host" value="Z565"/>
+                <label name="thread" value="27620@Z565.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1514375583208" stop="1514375621790" status="passed">
+            <name>trendsNone</name>
+            <steps/>
+            <attachments>
+                <attachment title="/void.png" source="ec0855e5-2e3d-4d70-b2da-a31b9316ca50-attachment.png" type="image/png" size="82523"/>
+            </attachments>
+            <labels>
+                <label name="host" value="Z565"/>
+                <label name="thread" value="27620@Z565.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1514375629790" stop="1514375677140" status="passed">
+            <name>trendsFiltered</name>
+            <steps/>
+            <attachments>
+                <attachment title="/filtered.png" source="436d8d99-078f-4268-ae3b-057e7ed1186b-attachment.png" type="image/png" size="124503"/>
+            </attachments>
+            <labels>
+                <label name="host" value="Z565"/>
+                <label name="thread" value="27620@Z565.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,59 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 3,
+      "passed" : 3,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "7b92d36989afca2a",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 3,
+        "passed" : 3,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "282aabc36ca43dea",
+        "name" : "trendsMain",
+        "title" : "Trends main",
+        "time" : {
+          "start" : 1514375548906,
+          "stop" : 1514375573532,
+          "duration" : 24626
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "62d1e20a4a0948f2",
+        "name" : "trendsNone",
+        "title" : "Trends none",
+        "time" : {
+          "start" : 1514375583208,
+          "stop" : 1514375621790,
+          "duration" : 38582
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "147a18c51703d717",
+        "name" : "trendsFiltered",
+        "title" : "Trends filtered",
+        "time" : {
+          "start" : 1514375629790,
+          "stop" : 1514375677140,
+          "duration" : 47350
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
